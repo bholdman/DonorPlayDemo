@@ -1,0 +1,21 @@
+body {
+  padding-top: 50px;
+}
+
+.school-logo{}
+.athletic-logo{}
+.color-primary{background-color:#C8102E !important; color:white !important;}
+.color-secondary{background-color:#000 !important; color:white !important;}
+
+.header {height:160px; margin-bottom:50px}
+.intro-text {margin-bottom:20px}
+.total-panel, .panel-heading {border:none !important;}
+.total-panel {font-size: 15px; text-align: center;}
+.total-panel .panel-body{font-size: 50px; font-weight: bold; text-align: center;}
+.sports-grid{margin-top:50px;}
+.sport-panel .panel-body{padding:0px !important;}
+.sport-panel img{width: 100%; height: auto;}
+.panel-footer{padding-top: 0px; padding-bottom: 7px; border:none;}
+.btn-donate{text-align: center; padding:5px; font-size: 20px; font-weight: bold;}
+.btn-donate a{color:#fff; text-decoration: none;}
+.nav-donate{height:40px;margin:5px;background-color: #C8102E;border: none;color: #FFF;font-size: 15px;}
