@@ -1,14 +1,15 @@
+.school-logo h3 {color:#fff; color:black !important;  margin-top:15px; margin-bottom:20px;}
 .sans-serif{font-family:'Roboto', sans-serif !important;}
 .serif{font-family:'Roboto Slab', serif !important;}
 .tall-text{font-family: 'Roboto Condensed', sans-serif;}
 .header-line1{font-size: 70px; color:#fff;font-weight: bold;line-height: 80px;padding-top: 25px;}
 .header-line2{font-size: 30px; color:#000;line-height: 0px;font-weight: bold;margin-top:-15px;}
 .school-logo{}
-hr.line{color: #F00;width: 100px;border-top: 2px solid #C1082E; width: 100px;}
-.athletic-logo img{float:left;}
-.color-primary{background-color:#C8102E !important; color:white !important;}
-.color-secondary{background-color:#222 !important; color:white !important;}
-.header-bar{background-color: #222;}
+hr.line{color: #ffdd00;width: 100px;border-top: 2px solid #ffdd00; width: 100px;}
+.athletic-logo img{float:left; padding-top:8px; margin-right:25px;}
+.color-primary{background-color:#1E4578 !important; color:white !important;}
+.color-secondary{background-color:#bdbdbd !important; color:black !important;}
+.header-bar{background-color: #fff; color:black !important;}
 .school-logo img {width:200px; height: auto; padding-top:5px;}
 .intro-text {margin-bottom:20px}
 .total-panel, .panel-heading {border:none !important;}
@@ -27,13 +28,13 @@ hr.line{color: #F00;width: 100px;border-top: 2px solid #C1082E; width: 100px;}
 border:solid 1px; background-color: #F1B434 !important;border-radius: 10px;}
 .btn-donate:hover{  color: #333 !important;
   background-color: #E6E6E6 !important;
-  border-color: #C8102E !important;
+  border-color: #ffdd00 !important;
   border:solid 1px;
 }
 a:hover{text-decoration: none; }
 .nav-donate{height:40px;margin:5px;background-color: #F1B434;border: none;color: #FFF;font-size: 15px;}
 
-.how-it-works, .players{margin-top:50px;padding-top:10px; border-top:solid 10px #C8102E;}
+.how-it-works, .players{margin-top:50px;padding-top:10px; border-top:solid 10px #ffdd00;}
 .section-title{text-align: center;}
 .steps{margin-top:30px;}
 
@@ -42,13 +43,13 @@ a:hover{text-decoration: none; }
 .box > .icon > .image > i { font-size: 60px !important; color: #fff !important; }
 .box > .icon > .info { margin-top: -24px; padding: 15px 0 10px 0; }
 .box > .icon > .info > h3.title { font-size: 16px; color: #fff; font-weight: 500; }
-.box > .icon > .info > p { font-size: 13px; color: #8a8a8a; line-height: 1.5em; margin: 20px;}
+.box > .icon > .info > p { font-size: 13px; color: #afafaf; line-height: 1.5em; margin: 20px;}
 .box > .icon > .info > .more a { font-size: 12px; color: #000; line-height: 12px; text-transform: uppercase; text-decoration: none; }
 .box .space { height: 30px; }
 
 .questions{padding-bottom: 20px;}
 .contact-info{text-align:center; width:300px; margin: 0 auto;}
-.questions i{color:#C8102E; font-size: 35px; padding: 0 30px 0 30px;}
+.questions i{color:#ffdd00; font-size: 35px; padding: 0 30px 0 30px;}
 .fa-envelope-o{padding-right:50px}
 .questions a {color:#000;}
 .donorplay-footer{background-color: #000; text-align: center; padding: 25px 0 25px 0; color: #fff;}
