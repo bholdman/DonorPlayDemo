@@ -5,8 +5,8 @@
 .header-line2{font-size: 30px; color:#000;line-height: 0px;font-weight: bold;margin-top:-15px;}
 .school-logo{}
 hr.line{color: #F00;width: 100px;border-top: 2px solid #C1082E; width: 100px;}
-.athletic-logo img{float:left;}
-.color-primary{background-color:#C8102E !important; color:white !important;}
+.athletic-logo img{float:left; padding-top:10px;}
+.color-primary{background-color:#C30020 !important; color:white !important;}
 .color-secondary{background-color:#222 !important; color:white !important;}
 .header-bar{background-color: #222;}
 .school-logo img {width:200px; height: auto; padding-top:5px;}
